@@ -1,0 +1,16 @@
+C:\Users\vitor\source\repos\RoboIrrigacao\RoboIrrigacao\bin\Debug\net5.0\RoboIrrigacao.exe
+C:\Users\vitor\source\repos\RoboIrrigacao\RoboIrrigacao\bin\Debug\net5.0\RoboIrrigacao.deps.json
+C:\Users\vitor\source\repos\RoboIrrigacao\RoboIrrigacao\bin\Debug\net5.0\RoboIrrigacao.runtimeconfig.json
+C:\Users\vitor\source\repos\RoboIrrigacao\RoboIrrigacao\bin\Debug\net5.0\RoboIrrigacao.runtimeconfig.dev.json
+C:\Users\vitor\source\repos\RoboIrrigacao\RoboIrrigacao\bin\Debug\net5.0\RoboIrrigacao.dll
+C:\Users\vitor\source\repos\RoboIrrigacao\RoboIrrigacao\bin\Debug\net5.0\ref\RoboIrrigacao.dll
+C:\Users\vitor\source\repos\RoboIrrigacao\RoboIrrigacao\bin\Debug\net5.0\RoboIrrigacao.pdb
+C:\Users\vitor\source\repos\RoboIrrigacao\RoboIrrigacao\obj\Debug\net5.0\RoboIrrigacao.csprojAssemblyReference.cache
+C:\Users\vitor\source\repos\RoboIrrigacao\RoboIrrigacao\obj\Debug\net5.0\RoboIrrigacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\source\repos\RoboIrrigacao\RoboIrrigacao\obj\Debug\net5.0\RoboIrrigacao.AssemblyInfoInputs.cache
+C:\Users\vitor\source\repos\RoboIrrigacao\RoboIrrigacao\obj\Debug\net5.0\RoboIrrigacao.AssemblyInfo.cs
+C:\Users\vitor\source\repos\RoboIrrigacao\RoboIrrigacao\obj\Debug\net5.0\RoboIrrigacao.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\RoboIrrigacao\RoboIrrigacao\obj\Debug\net5.0\RoboIrrigacao.dll
+C:\Users\vitor\source\repos\RoboIrrigacao\RoboIrrigacao\obj\Debug\net5.0\ref\RoboIrrigacao.dll
+C:\Users\vitor\source\repos\RoboIrrigacao\RoboIrrigacao\obj\Debug\net5.0\RoboIrrigacao.pdb
+C:\Users\vitor\source\repos\RoboIrrigacao\RoboIrrigacao\obj\Debug\net5.0\RoboIrrigacao.genruntimeconfig.cache
