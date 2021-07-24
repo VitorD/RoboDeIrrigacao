@@ -14,10 +14,18 @@ namespace RoboIrrigacao
             int[] Posicao = ReceberPosicaoRobo();
             char Direcao= ReceberDirecaoRobo();
             ValidarRobo(TamanhoHorta, Posicao, Direcao);
-            int[] Canteiro = ReceberCanteiroIrrigacao();
-            ValidarCanteiro(TamanhoHorta,Canteiro);
-           
-            GerarCaminhoIrrigacao(Canteiro[0], Canteiro[1], Direcao, Posicao[0], Posicao[1]);
+            do
+            {
+                int[] Canteiro = ReceberCanteiroIrrigacao();
+                ValidarCanteiro(TamanhoHorta, Canteiro);
+
+                GerarCaminhoIrrigacao(Canteiro[0], Canteiro[1], Direcao, Posicao[0], Posicao[1]);
+                Console.WriteLine("Deseja verificar mais um canteiro?\n");
+
+                Console.WriteLine("Enter:Sim Esc:Nao\n");
+
+            } while (Console.ReadKey().Key != ConsoleKey.Escape);
+            
 
 
         }
